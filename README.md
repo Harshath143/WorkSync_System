@@ -43,8 +43,8 @@ python -m venv venv
 venv\Scripts\activate
 # On macOS/Linux:
 source venv/bin/activate
-
-Future Enhancements
+```
+##Future Enhancements
 The following features can be added to improve the system:
 
 User Authentication: Implement login and role-based access control.
@@ -55,7 +55,7 @@ Real-Time Notifications: Notify managers of specific events, such as updates or 
 
 Admin Dashboard: Provide more advanced features for admins to manage data more effectively.
 
-** Conclusion **:
+## ** Conclusion **:
 The WorkSync System offers a complete staff monitoring solution with efficient data handling and real-time visualization features. With the setup described in this file, you can easily deploy the system on your local machine and begin using it for your own staff management needs.
 
 
